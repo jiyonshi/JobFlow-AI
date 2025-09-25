@@ -21,7 +21,6 @@ This approach reduces admin work, boosts confidence, and makes applying to 20–
 
 ## Demo
 
-![JobFlow-AI Demo](JobflowAI.gif)  
 ![JobFlow-AI Demo](JobFlowAI.gif)
 ![JobFlow-AI Demo](public/JobFlowAI.gif)
 [![JobFlow-AI Demo](public/JobFlowAI.gif)](https://jobflowai.lovable.app/)
